@@ -2043,7 +2043,7 @@ a {
  overflow: hidden;
  border-top: 1px solid #09586a;
  border-bottom: 1px solid #09586a;
- background-image: url('../../../assets/images/default-colourful-logo-stakrs-for-poker-2-1792x1008.jpg');
+ background-image: url('../../../assets/images/BonsaiBGFull.jpg');
 }
 .cid-u9PsWixZ5G .mbr-fallback-image.disabled {
  display: none;
@@ -2116,15 +2116,15 @@ a {
 }
 .cid-u9PsWixZ5G .mbr-section-subtitle {
  color: #ffffff;
- text-align: right;
+ text-align: left;
 }
 .cid-u9PsWixZ5G .mbr-text {
  color: #ffffff;
- text-align: right;
+ text-align: left;
 }
 .cid-u9PsWixZ5G .mbr-section-title,
 .cid-u9PsWixZ5G .mbr-section-btn {
- text-align: right;
+ text-align: left;
 }
 .cid-u9PvNFhziK {
  padding-top: 10rem;
