@@ -1589,6 +1589,13 @@ a {
 .cid-tCxUP7W3S9 .title-wrapper {
  padding-top: 35%;
 }
+
+@media (max-width: 1200px) {
+ .cid-tCxUP7W3S9 .title-wrapper {
+  margin-top: 250px;
+ }
+}
+
 .cid-tCxUP7W3S9 .title-wrapper .mbr-section-title {
  margin-bottom: 40px;
 }
